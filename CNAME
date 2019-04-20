@@ -107,7 +107,7 @@ animation:webzone 25s infinite linear;
 </div>
 <div class='wez-slider'>
 <figure>
-<img src=url('1.jpg')>
+<img src=url('https://github.com/HONEYOJHA/indu-bal-vinay-mandir/commit/79c29c123c9d256aeb0dcad21ac1a72f3eebc2e5')>
 <img src=url('2.JPG')>
 <img src=url('3.JPG')>
 <img src=url('4.jpg')>
