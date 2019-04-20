@@ -13,7 +13,8 @@ www.indubalvinaymandir.tk
 	height:200px;
 	border-style:groove;
 	background-color:#00a3e8;
-	background-image:url('header.jpg');
+	background-image:url('![header](https://user-images.githubusercontent.com/49806899/56455517-d1e43800-637c-11e9-8a0b-1ab3107019ab.jpg)
+');
 
 }
 .linkspart{
